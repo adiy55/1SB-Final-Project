@@ -140,5 +140,5 @@ dogs-vs-cats/
 # extraFiles (hands)
 extraFiles/
 
-# pickle
-bookings_final_model_A.pkl
+# bookings
+bookings/
