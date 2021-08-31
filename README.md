@@ -18,7 +18,7 @@ The main goal of this project is to apply the Machine Learning methods we studie
 -------------
 
 ### Honorable Mentions:
-1.	Hands-On Machine Learning (Second Edition) by Aurélien Géron manages to simplify complex theories and gives hands-on examples with Python implementations.
+1.	Hands-On Machine Learning (Second Edition) by Aurélien Géron manages to simplify complex theories and give hands-on examples with Python implementations.
 2.	The Joblib library (which was also recommended in the book mentioned above) provides a way to save and load data, models, predictions, etc. This library is perfect for large datasets that take a long time to run and provided an efficient way to save and load my progress. Evidently, this helped me save time and I was able to perform more thorough model tuning and training!
 
 ***Note: More resources are listed in the end of each notebook.***
