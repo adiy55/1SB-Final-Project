@@ -13,7 +13,7 @@ The main goal of this project is to apply the Machine Learning methods we studie
 
 4. Using Hand Movements to Predict Interpersonal Physical Alignment
 
-**For additional abstract you can visit the PDF file in this repository.**
+**For additional information you can visit the PDF file in this repository.**
 
 -------------
 
